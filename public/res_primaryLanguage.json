@@ -1,0 +1,121 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 As a 20-year-old emerging artist named Albiery, I navigate the vibrant streets of New York City with a brush in hand and a mind filled with colors and contrasts. My journey into the world of art is relatively fresh, spanning just a year, yet within this brief period, I've found solace, expression, and a profound connection to my innermost struggles and triumphs.\n Primarily working with acrylics, I dance between the worlds of traditional canvas painting and the dynamic realm of spray paint, exploring the intersection of urban art and personal narrative. With each stroke, I unveil a playful yet poignant aesthetic, characterized by vibrant hues and whimsical cartoon-like figures. These pieces serve as windows into my psyche, offering glimpses of my journey through the kaleidoscope of emotions. Yet, beneath the surface lies a deeper narrative, one that reflects the duality of my existence. As a person grappling with bipolar disorder and ADHD, my art becomes a vessel for navigating the tumultuous currents of mood swings and mental turbulence. Through the juxtaposition of bold reds and calming blues, I symbolize the erratic fluctuations and delicate balance of my inner world, inviting viewers to contemplate the complexities of mental health.\n Born and raised in the heart of Queens, New York, I am a product of the city's raw energy and resilient spirit. Growing up amidst the challenges of a rough neighborhood, I discovered art as both a sanctuary and a weapon—a means to transcend adversity and reclaim my narrative. It was only as my struggles with bipolar disorder intensified that I fully embraced art as my chosen path, recognizing its power to articulate what words cannot. Outside of my studio practice, I navigate the art world in a different capacity, serving as an art handler within New York City's bustling museum scene. Through transportation, installations, and meticulous packing, I immerse myself in the creative process, forging connections with masterpieces while honing my craft.\n Ultimately, my art is a testament to resilience, a visual symphony of triumph over adversity. It is a reflection of my journey as a Dominican artist from Queens, navigating the complexities of mental health and urban life with grace and creativity. With every brushstroke, I invite you to join me on this colorful odyssey, where pain and beauty coexist, and every canvas tells a story of hope and redemption.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Rapid Cycling",
+        "startDate": "2024",
+        "description": "24x24 acrylic canvas",
+        "images": [
+          "images/portfolio/rapid-cycling/p1.jpg"        
+        ],
+        "url": "",
+        "technologies": [
+          
+        ]
+      },
+      {
+        "title": "Mural",
+        "startDate": "2024",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/mural/p1.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          
+        ]
+      },
+      {
+        "title": "Blue",
+        "startDate": "2024",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/blue/p1.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          
+        ]
+      },
+      {
+        "title": "Iced Coffee",
+        "startDate": "2024",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/iced-coffee/p1.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          
+        ]
+      },
+      {
+        "title": "Untitled",
+        "startDate": "2024",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/untitled/p1.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          
+        ]
+      },
+      {
+        "title": "Tour De Rat",
+        "startDate": "2023",
+        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "images": [
+          "images/portfolio/bike/p1.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2019 - present",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Serros Solutions",
+        "title": "Intern",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }
